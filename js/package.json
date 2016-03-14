@@ -1,0 +1,12 @@
+{
+  "name": "Project Euler Solutions",
+  "author": "Anson MacKeracher",
+  "version": "0.0.1",
+  "private": "true",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
